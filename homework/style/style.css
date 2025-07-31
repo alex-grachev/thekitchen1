@@ -1,6 +1,7 @@
 h1 {
     color:rgb(112, 77, 0);
-    font-family:arial
+    font-family:arial;
+    margin: 0;
 }
 h2 {
     padding-inline:10px;
